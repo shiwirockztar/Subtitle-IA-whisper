@@ -4,6 +4,10 @@ Este repositorio contiene herramientas y un notebook (`script.ipynb`) pensado pa
 
 **Cómo usar el script en Google Colab**
 
+- **Traducir subtitulos**
+	- Entra en este enlace para traducir:
+		`https://www.syedgakbar.com/projects/dst`
+
 - **Abrir el notebook en Colab (rápido):**
 	- Entra en este enlace para abrir directamente el notebook en Colab:
 		`https://colab.research.google.com/github/shiwirockztar/Subtitle-IA-whisper/blob/master/script.ipynb`
